@@ -1,0 +1,2 @@
+username@example.com,Username=$2y$10$18Q3seRUuw/l7uMvmA5LpuaGUnKYXfBdgjr5LeZdckle5CM4Xy3NO
+stefan_canoski@yahoo.com,Stefan=$2y$10$RbPuOMamXx3CLkvny1ilBerQLBt8V3glVJJkJkD9vYxHHMNtOIXXq
